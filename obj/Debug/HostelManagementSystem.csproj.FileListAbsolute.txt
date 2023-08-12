@@ -1,0 +1,16 @@
+D:\C#\Lab\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+D:\C#\Lab\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+D:\C#\Lab\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.AssemblyReference.cache
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.Properties.Resources.resources
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.GenerateResource.cache
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.csproj.CoreCompileInputs.cache
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.exe
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.pdb
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.Dashboard.resources
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.LogIn.resources
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.AddNewRoom.resources
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.NewStudents.resources
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.StudentsFees.resources
+D:\C#\Lab\HostelManagementSystem\obj\Debug\HostelManagementSystem.UpdateDelete.resources
